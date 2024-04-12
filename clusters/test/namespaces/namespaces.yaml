@@ -1,0 +1,14 @@
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  labels:
+    name: zero
+  name: zero
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  labels:
+    name: one
+  name: one
